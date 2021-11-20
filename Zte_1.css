@@ -1,0 +1,29 @@
+body{
+	 background-color:ffff99;
+}
+.h1{
+	width:400px;
+	height:280px;
+}
+.h2{
+	width:1500px;
+	height:280px;
+}
+.h3{
+	font-size:70;
+	font-weight:100;
+	background-color:ccff33;
+}
+.h4{
+	background-color:ccff33;
+	border: 3px solid ccff33;
+	width:70%;
+}
+.h5{
+	width:400px;
+	height:400px;
+}
+.h6{
+	width:400px;
+	height:300px;
+}
